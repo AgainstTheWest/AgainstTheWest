@@ -1,2 +1,2 @@
-- 👋 Hi, we are @gainstTheWest. We are involved with journalism, hacktivism & cyber security..
+- 👋 Hi, we are @AgainstTheWest. We are involved with journalism, hacktivism & cyber security..
 - 📫 How to reach us: AgainstTheWest@riseup.net
